@@ -1,7 +1,7 @@
 # NativePasswordGenerator
 
 ## About ##
-NativePasswordGenerator is a simple password generator in different scripts to support differnt OS including Windows, Mac, and Linux. NativePasswordGenerator uses OS native scripting utility. 
+NativePasswordGenerator is a simple password generator written in different scripts to support differnt OS including Windows, Mac, and Linux. NativePasswordGenerator uses OS native scripting utility. 
 
 ## Supported Scripts ##
 - Windows Batch
