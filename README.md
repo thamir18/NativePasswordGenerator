@@ -1,5 +1,28 @@
 # NativePasswordGenerator
-## About ##
 
-ddAuto is an open-source front-end GUI cross-platform imaging tool written in Perl to automate dd utility process. The purpose of this tool is to provide the user with the power of the dd utility as well as providing the user with an intuitive interface. ddAuto provides the option for the user to image attached drives (e.g. HD, Flash Drive) locally or remotely via TCP protocol using netcat/cryptcat.
-Image integrity functionality is also provided by the tool. The user may choose to use MD5, SHA1, SHA2 or any other degist algorithm for hash verification. Most importantly, ddAuto allows the user to view the imaging completion percent as dd in the background as well as the estimated remaining time.
+## About ##
+NativePasswordGenerator is a simple password generator in different scripts to support differnt OS including Windows, Mac, and Linux. NativePasswordGenerator uses OS native scripting utility. 
+
+## Supported Scripts ##
+- Windows Batch
+- Mac Shell
+- Linux Bash
+- Python 3
+
+## How to Run the Script? ##
+1- Widows Batch
+```
+ > C:\>password_generator.bat
+ 
+1- Numeric
+2- Alphabet
+3- Alphanumeric
+4- Complex
+
+Choose Password Combination (1-4): 4
+Choose Password Length: 15
+
+Password:
+AF1r@[p+TUM4W#U
+ 
+```
