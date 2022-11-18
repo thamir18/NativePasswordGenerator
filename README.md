@@ -57,7 +57,7 @@ F2w8%z-AYNH2z@w
  
 ```
 
-3- Linux Shell
+3- Linux Bash
 
 ```
 $ bash Native_Password_Generator.sh 
