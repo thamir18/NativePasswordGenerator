@@ -9,6 +9,12 @@ NativePasswordGenerator is a simple password generator written in different scri
 - Linux Bash
 - Python 3
 
+## Supported Password Combination ##
+- Numeric
+- Alphabet
+- Alphanumeric
+- Complex
+
 ## How to Run the Script? ##
 1- Widows Batch
 
